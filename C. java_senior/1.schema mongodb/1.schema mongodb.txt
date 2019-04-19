@@ -1,0 +1,9 @@
+1. Silahkan buat database dan beberapa collection seperti dibawah ini.
+	- Nama Database : java-intermediate
+	- Collections :
+			- create collection customers
+			- create collection employees
+			- create collection products
+			- create collection shipping_methods
+			- create collection orders
+			- create collection order_details
